@@ -1,0 +1,20 @@
+p {
+	background-color: yellow;
+	color: red; 
+		
+}
+ #rtl{
+
+	direction:rtl;
+	
+}
+#ltr{
+
+	direction:ltr;
+}
+
+body {
+	background-image: url("bgslider.png");
+	background-color: #cccccc;
+	background-repeat: no -repeat;
+}
